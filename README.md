@@ -1,16 +1,30 @@
-## Hi there 👋
+# Вячеслав Кирпиченко
 
-<!--
-**Fuga12/Fuga12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Developer · Data & AI**
 
-Here are some ideas to get you started:
+Разрабатываю backend-сервисы, пайплайны обработки данных и LLM-инструменты для автоматизации аналитики. Работаю в Яндекс Рекламе; ранее занимался backend-разработкой в Яндекс Еде и грантовых проектах Фонда венчурных инвестиций Республики Карелия.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Опыт
+
+- **Яндекс Реклама · 2025 — настоящее время.** Сервис генерации отчётов для клиентов Яндекс Директа: LLM-агент для аналитиков, ETL на YTsaurus и ClickHouse, API для внутренних потребителей. Оптимизация YQL-запросов сократила время генерации отчётов примерно на 30%.
+- **Яндекс Еда · 2024 — 2025.** Backend на C++/userver: информирование о заказах, трекинг курьера и возвраты средств. Выделение микросервисов из монолита и разбор межсервисных инцидентов.
+- **Фонд венчурных инвестиций РК · 2022 — 2024.** Backend на Python и Go для грантовых проектов: интерактивный стенд на ВДНХ, система распознавания рыб по фото и система тестирования задач олимпиадного программирования.
+
+Вёл задачи от постановки до релиза: декомпозиция, координация разработки, код-ревью и онбординг новых разработчиков.
+
+## Стек
+
+| Направление | Технологии |
+| --- | --- |
+| Python backend | FastAPI, Django, Litestar, Celery |
+| Данные и хранилища | PostgreSQL, ClickHouse, Redis, YTsaurus, S3 |
+| Другие языки | C++, Go |
+| Инструменты | Docker, Linux, Git, Arc |
+
+## Публичные репозитории
+
+Коммерческий опыт описан выше; публичные репозитории ниже — отдельные учебные работы и форк открытого проекта.
+
+- [SMTP-клиент на Python](https://github.com/Fuga12/Lab4_Kirpichenko) — учебная работа с TCP-сокетами, STARTTLS и MIME.
+- [HTTP-сервер и клиент на Python](https://github.com/Fuga12/Lab5_Kirpichenko) — учебная работа с сокетами и обработкой подключений в потоках.
+- [tg-spending-analysis](https://github.com/Fuga12/tg-spending-analysis) — форк [GasikPasik/strochka-budget](https://github.com/GasikPasik/strochka-budget): учёт расходов через Telegram, LLM-классификация, Go, PostgreSQL и React/TypeScript. Исходный проект и его авторство указаны в upstream-репозитории.
