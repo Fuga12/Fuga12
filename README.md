@@ -23,7 +23,11 @@
 
 ## Публичные репозитории
 
-Коммерческий опыт описан выше; публичные репозитории ниже — отдельные учебные работы и форк открытого проекта.
+### GPT Consultant
+
+[Telegram-ассистент с YandexGPT](https://github.com/Fuga12/gpt_consultant) — прототип на Python и Litestar: асинхронный API для генерации ответов, настраиваемые системные промпты и запуск Telegram-ботов из конфигурации в PostgreSQL. SQLAlchemy, HTTPX, Pyrogram и Docker Compose. В README описаны архитектура, запуск, API и ограничения текущей реализации.
+
+### Учебные работы и форки
 
 - [SMTP-клиент на Python](https://github.com/Fuga12/Lab4_Kirpichenko) — учебная работа с TCP-сокетами, STARTTLS и MIME.
 - [HTTP-сервер и клиент на Python](https://github.com/Fuga12/Lab5_Kirpichenko) — учебная работа с сокетами и обработкой подключений в потоках.
