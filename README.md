@@ -27,6 +27,10 @@
 
 [Telegram-ассистент с YandexGPT](https://github.com/Fuga12/gpt_consultant) — прототип на Python и Litestar: асинхронный API для генерации ответов, настраиваемые системные промпты и запуск Telegram-ботов из конфигурации в PostgreSQL. SQLAlchemy, HTTPX, Pyrogram и Docker Compose. В README описаны архитектура, запуск, API и ограничения текущей реализации.
 
+### Мы Друзья
+
+[Сайт и админка детского центра](https://github.com/Fuga12/we-are-friends) — Go, Vue 3, TypeScript, PostgreSQL и MinIO. Управление контентом и заявками, авторизация администратора, загрузка и обработка медиа, Docker Compose. В репозитории — исходники, SQL-миграции, тесты и инструкция запуска.
+
 ### Учебные работы и форки
 
 - [SMTP-клиент на Python](https://github.com/Fuga12/Lab4_Kirpichenko) — учебная работа с TCP-сокетами, STARTTLS и MIME.
